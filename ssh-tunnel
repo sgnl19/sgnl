@@ -1,0 +1,2 @@
+integration.trading -M 0 -o StrictHostKeyChecking=no -o BatchMode=yes -L 3041:sedodbserv-integration1-pl:3306 sedo@twoface.sedorz.net
+stage.trading -M 0 -o StrictHostKeyChecking=no -o BatchMode=yes -L 3051:sedodbservstage1:3306 sedo@twoface.sedorz.net
