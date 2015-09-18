@@ -23,18 +23,25 @@ set nocursorline
 set number
 set nospell
 set noswapfile
-set nowrap
+set wrap
 set linebreak
-set tags=tags;/
+set tags+=tags;/
 set noexpandtab
 set paste
 
 " Remove all spaces at the end of any line
 function! TRIM_SPACES()
-    let line = line(".")
-    let col = col(".")
-    exec "%s/\\s*$//g"
-    call cursor(line, col)
+	let line = line(".")
+	let col = col(".")
+	exec "%s/\\s*$//g"
+	call cursor(line, col)
+endfunc
+
+function! SUPRESS_TABS()
+	set expandtab
+	set tabstop=4
+	set shiftwidth=4
+	set softtabstop=4
 endfunc
 
 " Syntax highlighting without an external script
@@ -85,6 +92,19 @@ function! COLORIZE()
     hi link Debug Special
 endfunc
 
+au BufWritePre *.sh,*.ksh,*.bash,*.csh          call TRIM_SPACES()
+au BufWritePre *.h,*.hpp,*.hxx,*.c,*.cpp,*.cxx  call TRIM_SPACES()
+au BufWritePre *.pl,*.pm,*.py,*.rb,*.php*       call TRIM_SPACES()
+au BufWritePre *.htm*,*.tpl,*.txt,*.md          call TRIM_SPACES()
+au BufWritePre *.xml,*.xsd,*.wsdl,*.dbk         call TRIM_SPACES()
+au BufWritePre *.cmake,*akefile                 call TRIM_SPACES()
+au BufWritePre *.vim*                           call TRIM_SPACES()
+
+au! BufWritePost .vimrc source %
+
+au BufReadPre *.sls call SUPRESS_TABS()
+au BufNewFile *.sls call SUPRESS_TABS()
+
 " Suffix <=> filetype mapping 
 au BufNewFile *.*sh,.profile,.*shrc		set filetype=sh			number
 au BufReadPre *.*sh,.profile,.*shrc		set filetype=sh			number
@@ -131,20 +151,6 @@ au! BufWritePost .vimrc call COLORIZE()
 
 call COLORIZE()
 
-let TlistAutoOpen = 1
-let TlistAutoUpdate = 1
-let Tlist_Display_Tag_Scope = 1
-let Tlist_Exit_OnlyWindow = 1
-let Tlist_WinWidth = 30 
-let Tlist_Highlight_Tag_On_BufEnter = 1
-let Tlist_Auto_Highlight_Tag = 1
-let Tlist_Process_File_Always = 1
-let Tlist_Show_One_File = 1
-let TlistAddFilesRecursive = "~/devel/*.class.php"
-
-
-map <F4> :TlistToggle<CR>
-
 " Key-remaps for old-fashioned and some remote ttys
 "map! OH <ESC>0i
 "map  OH <ESC>0
@@ -152,4 +158,5 @@ map <F4> :TlistToggle<CR>
 "map  OF <ESC>$
 "map! [3~ <DEL>
 "map  [3~ <DEL>
+
 

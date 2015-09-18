@@ -21,4 +21,12 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 
+EDITOR=vim
+export EDITOR
+
+JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
+export JAVA_HOME
+
 setxkbmap -option ctrl:nocaps
+xset r rate 250 100
+xrandr --auto --output HDMI1 --left-of VGA1
