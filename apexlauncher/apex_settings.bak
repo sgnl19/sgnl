@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="drawer_animation">FLY</string>
+    <string name="widget_padding">PADDING_DEFAULT</string>
+    <boolean name="external_notifiers" value="true" />
+    <boolean name="hide_dock_divider" value="true" />
+    <boolean name="hide_icon_labels_inside_folders" value="true" />
+    <string name="homescreen_indicator_position">AUTO</string>
+    <boolean name="show_wallpaper" value="true" />
+    <boolean name="menu_settings" value="true" />
+    <boolean name="dock_elastic_scrolling" value="true" />
+    <string name="swipe_up_action_app">Canasta</string>
+    <int name="number_of_screens" value="6" />
+    <boolean name="drawer_elastic_scrolling" value="true" />
+    <string name="folder_background_style">LIGHT</string>
+    <string name="dock_background">NONE</string>
+    <string name="drawer_tab_icon">MENU</string>
+    <boolean name="homescreen_overscroll_effect" value="true" />
+    <boolean name="enable_root_helper" value="false" />
+    <boolean name="homescreen_label_icons" value="true" />
+    <boolean name="hide_dock" value="false" />
+    <boolean name="menu_manage_screens" value="true" />
+    <string name="sms_app">com.android.mms/com.android.mms.ui.ConversationComposer</string>
+    <string name="screen_orientation">PORTRAIT</string>
+    <string name="theme_iconpack_pkg">default</string>
+    <string name="folder_background">NONE</string>
+    <string name="badge_color">THEME</string>
+    <string name="email_app">com.google.android.gm/com.google.android.gm.ConversationListActivityGmail</string>
+    <boolean name="folder_label_shadows" value="false" />
+    <int name="folder_label_color" value="-1442840576" />
+    <string name="drawer_transition_effect">ACCORDION</string>
+    <string name="drawer_style">HORIZONTAL_PAGINATED</string>
+    <boolean name="homescreen_elastic_scrolling" value="true" />
+    <boolean name="menu_lock_desktop" value="true" />
+    <boolean name="menu_manage_apps" value="true" />
+    <int name="folder_background_alpha" value="100" />
+    <string name="homescreen_indicator_style">DOT</string>
+    <boolean name="show_homescreen_indicator" value="true" />
+    <boolean name="resize_any_widget" value="true" />
+    <string name="swipe_down_action">LAUNCH_APP</string>
+    <int name="homescreen_portrait_grid_rows" value="6" />
+    <boolean name="drawer_close_on_launch" value="true" />
+    <boolean name="menu_preferences" value="true" />
+    <boolean name="folder_label_icons" value="true" />
+    <string name="two_finger_swipe_up_action">DO_NOTHING</string>
+    <string name="app_locale"></string>
+    <string name="drawer_apps_sorting">APP_TITLE</string>
+    <string name="theme_skin_pkg">default</string>
+    <boolean name="homescreen_use_alpha_effect" value="false" />
+    <boolean name="overlapping_widgets" value="false" />
+    <boolean name="search_as_overlay" value="true" />
+    <set name="apps_to_install" />
+    <boolean name="drawer_label_icons" value="true" />
+    <string name="menu_key_long_press_action">SEARCH</string>
+    <int name="homescreen_portrait_grid_columns" value="4" />
+    <string name="phone_app">com.android.contacts/com.android.dialer.DialtactsActivity</string>
+    <string name="swipe_down_action_component">fi.polar.polarflow/fi.polar.polarflow.activity.login.LoginActivity</string>
+    <boolean name="auto_merge_folders" value="true" />
+    <int name="homescreen_landscape_grid_rows" value="3" />
+    <boolean name="desktop_locked" value="false" />
+    <boolean name="menu_notifications" value="true" />
+    <string name="drawer_indicator_style">DOT</string>
+    <string name="activity_animation">SYSTEM</string>
+    <string name="desktop_double_tap_action">APEX_MENU</string>
+    <int name="homescreen_minimum_scrolling_time" value="100" />
+    <boolean name="enable_reporting" value="false" />
+    <int name="previous_app_version_code" value="3101" />
+    <string name="show_persistent_search_bar">LANDSCAPE_ONLY</string>
+    <int name="homescreen_label_color" value="-1" />
+    <boolean name="desktop_long_press_feedback" value="false" />
+    <boolean name="notifications" value="true" />
+    <boolean name="hide_notification_bar" value="false" />
+    <int name="acra.lastVersionNr" value="3101" />
+    <boolean name="show_drawer_indicator" value="true" />
+    <string name="badge_position">TOP_RIGHT</string>
+    <boolean name="drawer_infinite_scrolling" value="true" />
+    <string name="battery_app">com.android.settings/com.android.settings.Settings</string>
+    <boolean name="menu_manage_drawer" value="true" />
+    <boolean name="menu_add" value="true" />
+    <int name="homescreen_landscape_grid_columns" value="7" />
+    <string name="drawer_indicator_position">BOTTOM</string>
+    <boolean name="menu_help" value="true" />
+    <string name="badge_shape">RING</string>
+    <int name="scroll_speed" value="175" />
+    <boolean name="dock_infinite_scrolling" value="true" />
+    <string name="swipe_down_action_intent">#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fi.polar.polarflow/.activity.login.LoginActivity;end</string>
+    <int name="drawer_label_color" value="-1" />
+    <string name="drawer_tab_style">REGULAR_TABS</string>
+    <string name="search_bar_style">LOLLIPOP</string>
+    <boolean name="show_widgets_tab" value="true" />
+    <boolean name="widgets_in_dock" value="true" />
+    <boolean name="use_tablet_ui" value="false" />
+    <string name="theme_font_pkg">default</string>
+    <boolean name="fade_drawer_indicator" value="false" />
+    <string name="two_finger_swipe_down_action">DO_NOTHING</string>
+    <boolean name="homescreen_label_shadows" value="true" />
+    <boolean name="enable_quick_action" value="true" />
+    <string name="homescreen_transition_effect">SCALE</string>
+    <boolean name="menu_wallpaper" value="true" />
+    <boolean name="hide_shadows" value="false" />
+    <boolean name="drawer_join_tabs" value="true" />
+    <boolean name="notify_import_data" value="true" />
+    <boolean name="drawer_touch_feedback" value="false" />
+    <boolean name="hide_folder_name" value="true" />
+    <string name="home_key_action">SHOW_PREVIEWS</string>
+    <string name="drawer_horizontal_margin">NONE</string>
+    <boolean name="keep_in_memory" value="false" />
+    <string name="vibration_duration">DEFAULT</string>
+    <int name="icon_size" value="100" />
+    <string name="dock_horizontal_margin">MEDIUM</string>
+    <string name="badge_size">MEDIUM</string>
+    <string name="homescreen_portrait_grid">6 x 4</string>
+    <boolean name="show_dock_indicator" value="true" />
+    <boolean name="icon_long_press_feedback" value="true" />
+    <string name="swipe_up_action_component">com.riva.canasta/com.riva.canasta.Menu</string>
+    <boolean name="drawer_label_shadows" value="true" />
+    <int name="apps.new.page" value="-1" />
+    <boolean name="transparent_statusbar" value="true" />
+    <boolean name="dock_as_overlay" value="false" />
+    <boolean name="hide_drawer_app_labels" value="false" />
+    <string name="icon_font">THEME</string>
+    <int name="drawer_background_alpha" value="255" />
+    <string name="dock_vertical_margin">MEDIUM</string>
+    <string name="homescreen_landscape_grid">3 x 7</string>
+    <string name="pinch_in_action">SHOW_PREVIEWS</string>
+    <string name="folder_animation">SCALE</string>
+    <string name="folder_preview">GRID</string>
+    <boolean name="hide_icon_labels" value="true" />
+    <int name="number_of_dock_pages" value="3" />
+    <string name="homescreen_infinite_scrolling_type">BOUNCE</string>
+    <boolean name="hide_crosshairs" value="false" />
+    <string name="swipe_down_action_app">Polar Flow</string>
+    <boolean name="menu_search" value="false" />
+    <string name="desktop_long_press_action">ADD_DIALOG</string>
+    <boolean name="hide_drawer_widget_labels" value="false" />
+    <string name="homescreen_horizontal_margin">MEDIUM</string>
+    <boolean name="acra.enable" value="false" />
+    <string name="theme_icon_type">apex_theme</string>
+    <int name="folder_icon_size" value="74" />
+    <string name="wallpaper_mode">SINGLE_SCREEN</string>
+    <string name="swipe_up_action">LAUNCH_APP</string>
+    <string name="drawer_background_style">HOLO_DARK_CARD</string>
+    <boolean name="ok_google_hotword" value="false" />
+    <long name="last_calendar_update" value="1447110000600" />
+    <string name="dock_indicator_position">AUTO</string>
+    <boolean name="menu_theme" value="true" />
+    <boolean name="enable_analytics" value="false" />
+    <string name="calendar_app">com.android.calendar/com.android.calendar.AllInOneActivity</string>
+    <string name="swipe_up_action_intent">#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.riva.canasta/.Menu;end</string>
+    <boolean name="show_all_apps_tab" value="true" />
+    <boolean name="show_downloaded_apps_tab" value="true" />
+    <string name="homescreen_vertical_margin">MEDIUM</string>
+    <boolean name="fade_homescreen_indicator" value="true" />
+    <string name="drawer_icon_style">LOLLIPOP</string>
+    <string name="previous_app_version">3.1.0</string>
+    <int name="drawer_background_color" value="-16777216" />
+    <boolean name="home_key_to_default_screen" value="true" />
+</map>
