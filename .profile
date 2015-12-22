@@ -27,6 +27,7 @@ export EDITOR
 JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
 export JAVA_HOME
 
-setxkbmap -option ctrl:nocaps
+#setxkbmap -option ctrl:nocaps
+xmodmap -e "keycode  66 = Tab ISO_Left_Tab Tab ISO_Left_Tab"
 xset r rate 250 100
 xrandr --auto --output HDMI1 --left-of VGA1
