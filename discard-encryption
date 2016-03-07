@@ -1,0 +1,27 @@
+
+    Add a new trivial passphrase to the passwords that will unlock your partition(s). My suggestion is the old classic, "password". Using a more obscure password will not give you extra security:
+    cryptsetup luksAddKey /dev/sda2
+    The sda2 may be different on your system - look at /etc/crypttab to find the correct value for your machine. (If LVM is used, /etc/crypttab may list "sda2_crypt" or similar instead of just "sda2".)
+    
+    Ensure that a file containing the passphrase will be available at boot time, by hooking into the initramfs generation. Put into /etc/initramfs-tools/hooks/local-noluksprompt the following lines:
+    mkdir -p ${DESTDIR}/root/bin
+    cat >${DESTDIR}/root/bin/luks-password <<END
+    #!/bin/sh --
+    echo -n password
+    END
+    chmod +x ${DESTDIR}/root/bin/luks-password
+    echo "Added cleartext password -- http://atterer.org/linux-remove-disable-luks-encryption-password-on-disk-partition-crypttab-initrd"
+    
+    Make the file executable with
+    chmod +x /etc/initramfs-tools/hooks/local-noluksprompt
+    
+    Specify in /etc/crypttab that LUKS should get the passphrase during boot by executing the "luks-password" script. Do this by changing the last word luks into luks,keyscript=/root/bin/luks-password, so the line in crypttab will look similar to the following:
+    sda2_crypt UUID=123456789 none luks,keyscript=/root/bin/luks-password
+    Note: More recent versions of update-initramfs seem to be clever enough to make a copy of the script in the initramfs's /lib/cryptsetup/scripts/luks-password, so the extra hook script may not be required.
+    
+    Finally, ensure that the initramfs filesystem of your currently running kernel is regenerated - if everything works, the "Added cleartext password" line should be output during the following command:
+    update-initramfs -u -k`uname -r`
+    I recommend against using the -kall option to update all initramfs-es - that way, if something goes wrong with this procedure you can still unlock the HD by booting an older kernel.
+
+That's all! Should you want to disable this setup at a later point and go back to your previously set password, which still exists in one of the other LUKS password slots, just remove the trivial "password" entry:
+cryptsetup luksRemoveKey /dev/sda2 
