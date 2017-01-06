@@ -10,7 +10,7 @@
     <boolean name="menu_settings" value="true" />
     <boolean name="dock_elastic_scrolling" value="true" />
     <string name="swipe_up_action_app">Canasta</string>
-    <int name="number_of_screens" value="6" />
+    <int name="number_of_screens" value="5" />
     <boolean name="drawer_elastic_scrolling" value="true" />
     <string name="folder_background_style">LIGHT</string>
     <string name="dock_background">NONE</string>
@@ -33,8 +33,10 @@
     <boolean name="homescreen_elastic_scrolling" value="true" />
     <boolean name="menu_lock_desktop" value="true" />
     <boolean name="menu_manage_apps" value="true" />
+    <int name="default_screen" value="3" />
+    <string name="two_finger_swipe_down_action_app">Polar Flow</string>
     <int name="folder_background_alpha" value="100" />
-    <string name="homescreen_indicator_style">DOT</string>
+    <string name="homescreen_indicator_style">LINE</string>
     <boolean name="show_homescreen_indicator" value="true" />
     <boolean name="resize_any_widget" value="true" />
     <string name="swipe_down_action">LAUNCH_APP</string>
@@ -54,10 +56,10 @@
     <string name="menu_key_long_press_action">SEARCH</string>
     <int name="homescreen_portrait_grid_columns" value="4" />
     <string name="phone_app">com.android.contacts/com.android.dialer.DialtactsActivity</string>
-    <string name="swipe_down_action_component">fi.polar.polarflow/fi.polar.polarflow.activity.login.LoginActivity</string>
+    <string name="swipe_down_action_component">com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup</string>
     <boolean name="auto_merge_folders" value="true" />
     <int name="homescreen_landscape_grid_rows" value="3" />
-    <boolean name="desktop_locked" value="false" />
+    <boolean name="desktop_locked" value="true" />
     <boolean name="menu_notifications" value="true" />
     <string name="drawer_indicator_style">DOT</string>
     <string name="activity_animation">SYSTEM</string>
@@ -83,7 +85,7 @@
     <string name="badge_shape">RING</string>
     <int name="scroll_speed" value="175" />
     <boolean name="dock_infinite_scrolling" value="true" />
-    <string name="swipe_down_action_intent">#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fi.polar.polarflow/.activity.login.LoginActivity;end</string>
+    <string name="swipe_down_action_intent">#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.garmin.android.apps.connectmobile/.GCMActivityStartup;end</string>
     <int name="drawer_label_color" value="-1" />
     <string name="drawer_tab_style">REGULAR_TABS</string>
     <string name="search_bar_style">LOLLIPOP</string>
@@ -92,10 +94,11 @@
     <boolean name="use_tablet_ui" value="false" />
     <string name="theme_font_pkg">default</string>
     <boolean name="fade_drawer_indicator" value="false" />
-    <string name="two_finger_swipe_down_action">DO_NOTHING</string>
+    <string name="two_finger_swipe_down_action">LAUNCH_APP</string>
     <boolean name="homescreen_label_shadows" value="true" />
     <boolean name="enable_quick_action" value="true" />
     <string name="homescreen_transition_effect">SCALE</string>
+    <string name="two_finger_swipe_down_action_component">fi.polar.polarflow/fi.polar.polarflow.activity.login.LoginActivity</string>
     <boolean name="menu_wallpaper" value="true" />
     <boolean name="hide_shadows" value="false" />
     <boolean name="drawer_join_tabs" value="true" />
@@ -116,6 +119,7 @@
     <boolean name="drawer_label_shadows" value="true" />
     <int name="apps.new.page" value="-1" />
     <boolean name="transparent_statusbar" value="true" />
+    <string name="two_finger_swipe_down_action_intent">#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fi.polar.polarflow/.activity.login.LoginActivity;end</string>
     <boolean name="dock_as_overlay" value="false" />
     <boolean name="hide_drawer_app_labels" value="false" />
     <string name="icon_font">THEME</string>
@@ -129,7 +133,7 @@
     <int name="number_of_dock_pages" value="3" />
     <string name="homescreen_infinite_scrolling_type">BOUNCE</string>
     <boolean name="hide_crosshairs" value="false" />
-    <string name="swipe_down_action_app">Polar Flow</string>
+    <string name="swipe_down_action_app">Connect</string>
     <boolean name="menu_search" value="false" />
     <string name="desktop_long_press_action">ADD_DIALOG</string>
     <boolean name="hide_drawer_widget_labels" value="false" />
@@ -141,7 +145,7 @@
     <string name="swipe_up_action">LAUNCH_APP</string>
     <string name="drawer_background_style">HOLO_DARK_CARD</string>
     <boolean name="ok_google_hotword" value="false" />
-    <long name="last_calendar_update" value="1447110000600" />
+    <long name="last_calendar_update" value="1481497203150" />
     <string name="dock_indicator_position">AUTO</string>
     <boolean name="menu_theme" value="true" />
     <boolean name="enable_analytics" value="false" />
