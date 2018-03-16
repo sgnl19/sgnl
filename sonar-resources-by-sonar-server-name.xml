@@ -1,0 +1,1867 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Sedo Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1480377722000" />
+                <option name="date" value="1496876503000" />
+                <option name="id" value="42899" />
+                <option name="key" value="com.sedo:activemq-jms-pool" />
+                <option name="longName" value="ActivemMq JMS Pool" />
+                <option name="name" value="ActivemMq JMS Pool" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.9.0.redhat-610379-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1423667026000" />
+                <option name="date" value="1496877806000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="15268" />
+                <option name="key" value="com.sedo:camelservice-blueprint" />
+                <option name="longName" value="Camel Service Blueprint" />
+                <option name="name" value="Camel Service Blueprint" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1486725676000" />
+                <option name="date" value="1486725670000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="44001" />
+                <option name="key" value="com.sedo:camelservice-blueprint-war" />
+                <option name="longName" value="Camel Service Blueprint (war packaging)" />
+                <option name="name" value="Camel Service Blueprint (war packaging)" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411473166000" />
+                <option name="date" value="1496879886000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="103" />
+                <option name="key" value="com.sedo:common-lib-parent" />
+                <option name="longName" value="Common Lib Parent" />
+                <option name="name" value="Common Lib Parent" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="7.1.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1449222102000" />
+                <option name="date" value="1496879886000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38860" />
+                <option name="key" value="com.sedo:common-lib" />
+                <option name="longName" value="Common Lib" />
+                <option name="name" value="Common Lib" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="7.1.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1449222102000" />
+                <option name="date" value="1496879886000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38861" />
+                <option name="key" value="com.sedo:common-test" />
+                <option name="longName" value="Common Lib Test" />
+                <option name="name" value="Common Lib Test" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="7.1.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438701686000" />
+                <option name="date" value="1496877735000" />
+                <option name="id" value="17002" />
+                <option name="key" value="com.sedo:composed-domain-service" />
+                <option name="longName" value="Composed Domain Service" />
+                <option name="name" value="Composed Domain Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467272494000" />
+                <option name="date" value="1496876542000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="40823" />
+                <option name="key" value="com.sedo:composed-order-service" />
+                <option name="longName" value="Composed Order Service" />
+                <option name="name" value="Composed Order Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1480378284000" />
+                <option name="date" value="1496877110000" />
+                <option name="description" value="A service to provide methods to retrieve and modify currency data" />
+                <option name="id" value="42956" />
+                <option name="key" value="com.sedo:currency-service" />
+                <option name="longName" value="Currency Service" />
+                <option name="name" value="Currency Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1484143958000" />
+                <option name="date" value="1496879450000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="43413" />
+                <option name="key" value="com.sedo:customer-registration-service" />
+                <option name="longName" value="Customer Registration Service" />
+                <option name="name" value="Customer Registration Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1417444884000" />
+                <option name="date" value="1496878843000" />
+                <option name="description" value="A service to provide methods to retrieve and modify customer data" />
+                <option name="id" value="14391" />
+                <option name="key" value="com.sedo:customer-service" />
+                <option name="longName" value="Customer service" />
+                <option name="name" value="Customer service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.7.6-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1453799678000" />
+                <option name="date" value="1490055867000" />
+                <option name="description" value="A service to provide methods to retrieve and modify customer data" />
+                <option name="id" value="39144" />
+                <option name="key" value="com.sedo:customer-service:v2" />
+                <option name="longName" value="Customer service v2" />
+                <option name="name" value="Customer service v2" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.3.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1427281449000" />
+                <option name="date" value="1496879639000" />
+                <option name="description" value="Service which performs DNS Lookups for requested domains" />
+                <option name="id" value="15622" />
+                <option name="key" value="com.sedo:dns-service" />
+                <option name="longName" value="DNS Service" />
+                <option name="name" value="DNS Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.12.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457971891000" />
+                <option name="date" value="1496879575000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="39577" />
+                <option name="key" value="com.sedo:document-service" />
+                <option name="longName" value="Document Service" />
+                <option name="name" value="Document Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1439461605000" />
+                <option name="date" value="1496879888000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="17070" />
+                <option name="key" value="com.sedo:domain-import-service" />
+                <option name="longName" value="Domain Import Service" />
+                <option name="name" value="Domain Import Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.8.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1412782409000" />
+                <option name="date" value="1496877338000" />
+                <option name="id" value="13503" />
+                <option name="key" value="com.sedo:domain-sale-service" />
+                <option name="longName" value="Domain Sale Service" />
+                <option name="name" value="Domain Sale Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.8.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1412782184000" />
+                <option name="date" value="1496879666000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="13467" />
+                <option name="key" value="com.sedo:domain-service" />
+                <option name="longName" value="Domain Service" />
+                <option name="name" value="Domain Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.12.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1423072111000" />
+                <option name="date" value="1496878350000" />
+                <option name="id" value="15100" />
+                <option name="key" value="com.sedo:domainsignup-service" />
+                <option name="longName" value="DomainSignup Service" />
+                <option name="name" value="DomainSignup Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.10.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455894525000" />
+                <option name="date" value="1496879329000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="39258" />
+                <option name="key" value="com.sedo:fulfillment-service" />
+                <option name="longName" value="Fulfillment Service" />
+                <option name="name" value="Fulfillment Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.7-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411733860000" />
+                <option name="date" value="1478143735000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="12231" />
+                <option name="key" value="de.sedo:gauss-stats" />
+                <option name="longName" value="GaussStats" />
+                <option name="name" value="GaussStats" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1464863705000" />
+                <option name="date" value="1496882123000" />
+                <option name="id" value="40595" />
+                <option name="key" value="sedo.php.service.internal.auth.token" />
+                <option name="longName" value="Internal Auth Token Service" />
+                <option name="name" value="Internal Auth Token Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.3" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461924172000" />
+                <option name="date" value="1496882646000" />
+                <option name="id" value="40180" />
+                <option name="key" value="sedo.php.service.invoice.sequencer" />
+                <option name="longName" value="Invoice Sequencer Service" />
+                <option name="name" value="Invoice Sequencer Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1417445279000" />
+                <option name="date" value="1496878281000" />
+                <option name="description" value="Sample REST web service using Spring MVC and JPA" />
+                <option name="id" value="14438" />
+                <option name="key" value="com.sedo:rest-service-blueprint" />
+                <option name="longName" value="Java REST Service Blueprint" />
+                <option name="name" value="Java REST Service Blueprint" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.2.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459770489000" />
+                <option name="date" value="1496877023000" />
+                <option name="description" value="This service manages the customer´s Api keys" />
+                <option name="id" value="39836" />
+                <option name="key" value="com.sedo:mls-customer-apikey-service" />
+                <option name="longName" value="MLS Customer Api Key Service" />
+                <option name="name" value="MLS Customer Api Key Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1483957340000" />
+                <option name="date" value="1496878197000" />
+                <option name="description" value="This service manages the SedoMLS registrars" />
+                <option name="id" value="43333" />
+                <option name="key" value="com.sedo:mls-registrar-service" />
+                <option name="longName" value="MLS Registrar Service" />
+                <option name="name" value="MLS Registrar Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1458656344000" />
+                <option name="date" value="1496879772000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="39741" />
+                <option name="key" value="com.sedo:cas-marketplace" />
+                <option name="longName" value="Marketplace CAS" />
+                <option name="name" value="Marketplace CAS" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.11.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1442909565000" />
+                <option name="date" value="1496877618000" />
+                <option name="id" value="17435" />
+                <option name="key" value="com.sedo:notification-service" />
+                <option name="longName" value="Notification Service" />
+                <option name="name" value="Notification Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.2.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1458308716000" />
+                <option name="date" value="1496880306000" />
+                <option name="id" value="39675" />
+                <option name="key" value="com.sedo:ofbiz" />
+                <option name="longName" value="OFBiz" />
+                <option name="name" value="OFBiz" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.12.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467188825000" />
+                <option name="date" value="1496877716000" />
+                <option name="description" value="REST Service which delivers data about orders made in Sedo's marketplace" />
+                <option name="id" value="40731" />
+                <option name="key" value="com.sedo:order-marketplace-service" />
+                <option name="longName" value="Order Marketplace Service" />
+                <option name="name" value="Order Marketplace Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467213298000" />
+                <option name="date" value="1496883373000" />
+                <option name="id" value="40767" />
+                <option name="key" value="sedo.php.service.order.validation" />
+                <option name="longName" value="Order Validation Service" />
+                <option name="name" value="Order Validation Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.9.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1422283548000" />
+                <option name="date" value="1489480924000" />
+                <option name="id" value="14982" />
+                <option name="key" value="com.sedo:ownershipverification-service" />
+                <option name="longName" value="Ownership Verification Service" />
+                <option name="name" value="Ownership Verification Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1489481398000" />
+                <option name="date" value="1496877285000" />
+                <option name="id" value="44433" />
+                <option name="key" value="com.sedo:ownership-verification-service" />
+                <option name="longName" value="Ownership Verification Service" />
+                <option name="name" value="Ownership Verification Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.8.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461767367000" />
+                <option name="date" value="1496882972000" />
+                <option name="id" value="40051" />
+                <option name="key" value="sedo.php.service.blueprint" />
+                <option name="longName" value="PHP Rest Service Blueprint" />
+                <option name="name" value="PHP Rest Service Blueprint" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.6.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468501022000" />
+                <option name="date" value="1468501131000" />
+                <option name="id" value="40987" />
+                <option name="key" value="sedo.php.service.blueprint:php_5.3.3" />
+                <option name="longName" value="PHP Rest Service Blueprint php_5.3.3" />
+                <option name="name" value="PHP Rest Service Blueprint php_5.3.3" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.7" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1484912748000" />
+                <option name="date" value="1496886915000" />
+                <option name="id" value="43489" />
+                <option name="key" value="sedo.php.CustomerCertification.lib" />
+                <option name="longName" value="PHP.CustomerCertificationLib" />
+                <option name="name" value="PHP.CustomerCertificationLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1483433119000" />
+                <option name="date" value="1496887477000" />
+                <option name="id" value="43237" />
+                <option name="key" value="sedo.php.domain.purchase.bundle" />
+                <option name="longName" value="PHP.DomainPurchaseBundle" />
+                <option name="name" value="PHP.DomainPurchaseBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1432890829000" />
+                <option name="date" value="1496888051000" />
+                <option name="description" value="Dto" />
+                <option name="id" value="16403" />
+                <option name="key" value="sedo.php.Dto" />
+                <option name="longName" value="PHP.Dto" />
+                <option name="name" value="PHP.Dto" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1486463423000" />
+                <option name="date" value="1496886433000" />
+                <option name="id" value="43749" />
+                <option name="key" value="sedo.php.frontend.bundle" />
+                <option name="longName" value="PHP.FrontendBundle" />
+                <option name="name" value="PHP.FrontendBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.5" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1421912345000" />
+                <option name="date" value="1496887792000" />
+                <option name="description" value="Geo" />
+                <option name="id" value="14847" />
+                <option name="key" value="sedo.php.pear.Geo" />
+                <option name="longName" value="PHP.Geo" />
+                <option name="name" value="PHP.Geo" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416494813000" />
+                <option name="date" value="1496888914000" />
+                <option name="description" value="GoogleAPI" />
+                <option name="id" value="13634" />
+                <option name="key" value="sedo.php.pear.GoogleAPI" />
+                <option name="longName" value="PHP.GoogleAPI" />
+                <option name="name" value="PHP.GoogleAPI" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.12.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1432889756000" />
+                <option name="date" value="1496883815000" />
+                <option name="id" value="16379" />
+                <option name="key" value="sedo.php.Greeter" />
+                <option name="longName" value="PHP.Greeter" />
+                <option name="name" value="PHP.Greeter" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1421910325000" />
+                <option name="date" value="1496889465000" />
+                <option name="description" value="Instrumenter" />
+                <option name="id" value="14833" />
+                <option name="key" value="sedo.php.pear.Instrumenter" />
+                <option name="longName" value="PHP.Instrumenter" />
+                <option name="name" value="PHP.Instrumenter" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416495588000" />
+                <option name="date" value="1496888170000" />
+                <option name="description" value="LegacyUtils" />
+                <option name="id" value="13750" />
+                <option name="key" value="sedo.php.pear.LegacyUtils" />
+                <option name="longName" value="PHP.LegacyUtils" />
+                <option name="name" value="PHP.LegacyUtils" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1447171129000" />
+                <option name="date" value="1478135947000" />
+                <option name="description" value="LibBackoffice" />
+                <option name="id" value="34285" />
+                <option name="key" value="sedo.php.LibBackoffice" />
+                <option name="longName" value="PHP.LibBackoffice" />
+                <option name="name" value="PHP.LibBackoffice" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482150000" />
+                <option name="date" value="1496885958000" />
+                <option name="description" value="LibMLS" />
+                <option name="id" value="7520" />
+                <option name="key" value="sedo.php.LibMLS" />
+                <option name="longName" value="PHP.LibMLS" />
+                <option name="name" value="PHP.LibMLS" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411477804000" />
+                <option name="date" value="1496881971000" />
+                <option name="description" value="LibMain" />
+                <option name="id" value="1843" />
+                <option name="key" value="sedo.php.LibMain" />
+                <option name="longName" value="PHP.LibMain" />
+                <option name="name" value="PHP.LibMain" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482050000" />
+                <option name="date" value="1496881683000" />
+                <option name="description" value="LibMarketplace" />
+                <option name="id" value="6788" />
+                <option name="key" value="sedo.php.LibMarketplace" />
+                <option name="longName" value="PHP.LibMarketplace" />
+                <option name="name" value="PHP.LibMarketplace" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411481027000" />
+                <option name="date" value="1496884118000" />
+                <option name="description" value="LibParking" />
+                <option name="id" value="2657" />
+                <option name="key" value="sedo.php.LibParking" />
+                <option name="longName" value="PHP.LibParking" />
+                <option name="name" value="PHP.LibParking" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482870000" />
+                <option name="date" value="1496886783000" />
+                <option name="description" value="LibService" />
+                <option name="id" value="9714" />
+                <option name="key" value="sedo.php.LibService" />
+                <option name="longName" value="PHP.LibService" />
+                <option name="name" value="PHP.LibService" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1490965976000" />
+                <option name="date" value="1496883894000" />
+                <option name="id" value="44624" />
+                <option name="key" value="sedo.php.locale.lib.v2" />
+                <option name="longName" value="PHP.LocaleLibV2" />
+                <option name="name" value="PHP.LocaleLibV2" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416565400000" />
+                <option name="date" value="1490067249000" />
+                <option name="description" value="MLSAppraiser" />
+                <option name="id" value="14029" />
+                <option name="key" value="sedo.php.pear.MLSAppraiser" />
+                <option name="longName" value="PHP.MLSAppraiser" />
+                <option name="name" value="PHP.MLSAppraiser" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1480349674000" />
+                <option name="date" value="1496886918000" />
+                <option name="id" value="42878" />
+                <option name="key" value="sedo.php.marketplace.session.access.bundle" />
+                <option name="longName" value="PHP.MarketplaceSessionAccessBundle" />
+                <option name="name" value="PHP.MarketplaceSessionAccessBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1491205939000" />
+                <option name="date" value="1496886242000" />
+                <option name="id" value="44635" />
+                <option name="key" value="sedo.php.markup.transformer.bundle" />
+                <option name="longName" value="PHP.MarkupTransformerBundle" />
+                <option name="name" value="PHP.MarkupTransformerBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416496249000" />
+                <option name="date" value="1496890389000" />
+                <option name="description" value="Memcache" />
+                <option name="id" value="13774" />
+                <option name="key" value="sedo.php.pear.Memcache" />
+                <option name="longName" value="PHP.Memcache" />
+                <option name="name" value="PHP.Memcache" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1445518043000" />
+                <option name="date" value="1496888469000" />
+                <option name="description" value="Network" />
+                <option name="id" value="27916" />
+                <option name="key" value="sedo.php.Network" />
+                <option name="longName" value="PHP.Network" />
+                <option name="name" value="PHP.Network" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1483608060000" />
+                <option name="date" value="1496193387000" />
+                <option name="id" value="43253" />
+                <option name="key" value="sedo.php.ofbiz.prototype.bundle" />
+                <option name="longName" value="PHP.OfbizPrototypeBundle" />
+                <option name="name" value="PHP.OfbizPrototypeBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416496979000" />
+                <option name="date" value="1496884668000" />
+                <option name="description" value="PDO" />
+                <option name="id" value="13840" />
+                <option name="key" value="sedo.php.pear.PDO" />
+                <option name="longName" value="PHP.PDO" />
+                <option name="name" value="PHP.PDO" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416562378000" />
+                <option name="date" value="1444104016000" />
+                <option name="description" value="IPC" />
+                <option name="id" value="13916" />
+                <option name="key" value="sedo.php.pear.IPC" />
+                <option name="longName" value="PHP.PEAR.IPC" />
+                <option name="name" value="PHP.PEAR.IPC" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1484646742000" />
+                <option name="date" value="1496886517000" />
+                <option name="id" value="43447" />
+                <option name="key" value="sedo.php.page.element.renderer.bundle" />
+                <option name="longName" value="PHP.PageElementRendererBundle" />
+                <option name="name" value="PHP.PageElementRendererBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1433335973000" />
+                <option name="date" value="1496889073000" />
+                <option name="description" value="Parking-Core" />
+                <option name="id" value="16426" />
+                <option name="key" value="sedo.php.Parking-Core" />
+                <option name="longName" value="PHP.Parking-Core" />
+                <option name="name" value="PHP.Parking-Core" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1488890194000" />
+                <option name="date" value="1496889682000" />
+                <option name="description" value="Provides facilities for reading and writing parking related data" />
+                <option name="id" value="44280" />
+                <option name="key" value="sedo.php.Parking-Dao" />
+                <option name="longName" value="PHP.Parking-Dao" />
+                <option name="name" value="PHP.Parking-Dao" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1491876447000" />
+                <option name="date" value="1496889558000" />
+                <option name="description" value="Parking-Templates" />
+                <option name="id" value="44679" />
+                <option name="key" value="sedo.php.Parking-Templates" />
+                <option name="longName" value="PHP.Parking-Templates" />
+                <option name="name" value="PHP.Parking-Templates" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416496570000" />
+                <option name="date" value="1496890209000" />
+                <option name="description" value="ParkingAdvertiser" />
+                <option name="id" value="13798" />
+                <option name="key" value="sedo.php.pear.ParkingAdvertiser" />
+                <option name="longName" value="PHP.ParkingAdvertiser" />
+                <option name="name" value="PHP.ParkingAdvertiser" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416995943000" />
+                <option name="date" value="1496890090000" />
+                <option name="description" value="ParkingAdvertiserGoogle" />
+                <option name="id" value="14232" />
+                <option name="key" value="sedo.php.pear.ParkingAdvertiserGoogle" />
+                <option name="longName" value="PHP.ParkingAdvertiserGoogle" />
+                <option name="name" value="PHP.ParkingAdvertiserGoogle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.6.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416496814000" />
+                <option name="date" value="1496888239000" />
+                <option name="description" value="ParkingCertification" />
+                <option name="id" value="13810" />
+                <option name="key" value="sedo.php.pear.ParkingCertification" />
+                <option name="longName" value="PHP.ParkingCertification" />
+                <option name="name" value="PHP.ParkingCertification" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1490609763000" />
+                <option name="date" value="1496886368000" />
+                <option name="id" value="44588" />
+                <option name="key" value="sedo.php.pear.PaymentRulesServiceClient" />
+                <option name="longName" value="PHP.PaymentRulesServiceClient" />
+                <option name="name" value="PHP.PaymentRulesServiceClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416506956000" />
+                <option name="date" value="1496889673000" />
+                <option name="description" value="PricingAPI" />
+                <option name="id" value="13871" />
+                <option name="key" value="sedo.php.pear.PricingAPI" />
+                <option name="longName" value="PHP.PricingAPI" />
+                <option name="name" value="PHP.PricingAPI" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1481880967000" />
+                <option name="date" value="1496801229000" />
+                <option name="id" value="43136" />
+                <option name="key" value="sedo.php.product.configuration.bundle" />
+                <option name="longName" value="PHP.ProductConfigurationBundle" />
+                <option name="name" value="PHP.ProductConfigurationBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1494317374000" />
+                <option name="date" value="1496885494000" />
+                <option name="id" value="52821" />
+                <option name="key" value="sedo.php.product.validation.component" />
+                <option name="longName" value="PHP.ProductValidationComponent" />
+                <option name="name" value="PHP.ProductValidationComponent" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.12" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482728000" />
+                <option name="date" value="1496885925000" />
+                <option name="description" value="Prometheus" />
+                <option name="id" value="9105" />
+                <option name="key" value="sedo.php.Prometheus" />
+                <option name="longName" value="PHP.Prometheus" />
+                <option name="name" value="PHP.Prometheus" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1478173036000" />
+                <option name="date" value="1496886853000" />
+                <option name="id" value="42715" />
+                <option name="key" value="sedo.php.SapExport.lib" />
+                <option name="longName" value="PHP.SapExportLib" />
+                <option name="name" value="PHP.SapExportLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.6.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1480682289000" />
+                <option name="date" value="1496887539000" />
+                <option name="id" value="43087" />
+                <option name="key" value="sedo.php.Search.lib" />
+                <option name="longName" value="PHP.SearchLib" />
+                <option name="name" value="PHP.SearchLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.9" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473930557000" />
+                <option name="date" value="1496900677000" />
+                <option name="description" value="Sedo Authentication" />
+                <option name="id" value="42226" />
+                <option name="key" value="sedo.php.sedo.authentication" />
+                <option name="longName" value="PHP.Sedo.Authentication" />
+                <option name="name" value="PHP.Sedo.Authentication" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468507067000" />
+                <option name="date" value="1496898860000" />
+                <option name="description" value="Refactoring" />
+                <option name="id" value="41009" />
+                <option name="key" value="sedo.php.sedo.refactoring" />
+                <option name="longName" value="PHP.Sedo.Refactoring" />
+                <option name="name" value="PHP.Sedo.Refactoring" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1446811753000" />
+                <option name="date" value="1496891668000" />
+                <option name="description" value="SedoAPI" />
+                <option name="id" value="28037" />
+                <option name="key" value="sedo.php.SedoAPI" />
+                <option name="longName" value="PHP.SedoAPI" />
+                <option name="name" value="PHP.SedoAPI" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1474622310000" />
+                <option name="date" value="1496884047000" />
+                <option name="id" value="42295" />
+                <option name="key" value="sedo.php.SedoApi_User_Authentication_Service_Client" />
+                <option name="longName" value="PHP.SedoApi_User_Authentication_Service_Client" />
+                <option name="name" value="PHP.SedoApi_User_Authentication_Service_Client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416564269000" />
+                <option name="date" value="1490663981000" />
+                <option name="id" value="13938" />
+                <option name="key" value="sedo.php.pear.Appraiser" />
+                <option name="longName" value="PHP.SedoAppraiser" />
+                <option name="name" value="PHP.SedoAppraiser" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.7" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482543000" />
+                <option name="date" value="1478139017000" />
+                <option name="description" value="SedoBackoffice" />
+                <option name="id" value="8219" />
+                <option name="key" value="sedo.php.SedoBackoffice" />
+                <option name="longName" value="PHP.SedoBackoffice" />
+                <option name="name" value="PHP.SedoBackoffice" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1478183256000" />
+                <option name="date" value="1482372877000" />
+                <option name="id" value="42814" />
+                <option name="key" value="sedo.php.pear.SedoComposedOrderServiceClient" />
+                <option name="longName" value="PHP.SedoComposedOrderServiceClient" />
+                <option name="name" value="PHP.SedoComposedOrderServiceClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469188090000" />
+                <option name="date" value="1496886555000" />
+                <option name="id" value="41061" />
+                <option name="key" value="sedo.php.configuration.bundle" />
+                <option name="longName" value="PHP.SedoConfigurationBundle" />
+                <option name="name" value="PHP.SedoConfigurationBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471434410000" />
+                <option name="date" value="1496884302000" />
+                <option name="id" value="41622" />
+                <option name="key" value="sedo.php.configuration.lib" />
+                <option name="longName" value="PHP.SedoConfigurationLib" />
+                <option name="name" value="PHP.SedoConfigurationLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.14" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1485788961000" />
+                <option name="date" value="1496886712000" />
+                <option name="id" value="43614" />
+                <option name="key" value="sedo.php.configuration.provider.lib" />
+                <option name="longName" value="PHP.SedoConfigurationProviderLib" />
+                <option name="name" value="PHP.SedoConfigurationProviderLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411481831000" />
+                <option name="date" value="1496889719000" />
+                <option name="description" value="SedoCron" />
+                <option name="id" value="6200" />
+                <option name="key" value="sedo.php.SedoCron" />
+                <option name="longName" value="PHP.SedoCron" />
+                <option name="name" value="PHP.SedoCron" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1432646687000" />
+                <option name="date" value="1496884576000" />
+                <option name="id" value="16310" />
+                <option name="key" value="sedo.php.pear.SedoCustomerClient" />
+                <option name="longName" value="PHP.SedoCustomerClient" />
+                <option name="name" value="PHP.SedoCustomerClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1435591656000" />
+                <option name="date" value="1496883986000" />
+                <option name="id" value="16632" />
+                <option name="key" value="sedo.php.pear.SedoDnsClient" />
+                <option name="longName" value="PHP.SedoDnsClient" />
+                <option name="name" value="PHP.SedoDnsClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1480333526000" />
+                <option name="date" value="1496883869000" />
+                <option name="id" value="42835" />
+                <option name="key" value="sedo.php.pear.SedoDocumentServiceClient" />
+                <option name="longName" value="PHP.SedoDocumentServiceClient" />
+                <option name="name" value="PHP.SedoDocumentServiceClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1440752599000" />
+                <option name="date" value="1496885246000" />
+                <option name="id" value="17297" />
+                <option name="key" value="sedo.php.pear.SedoDomainClient" />
+                <option name="longName" value="PHP.SedoDomainClient" />
+                <option name="name" value="PHP.SedoDomainClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1485858138000" />
+                <option name="date" value="1496884874000" />
+                <option name="id" value="43638" />
+                <option name="key" value="sedo.php.sedo.domain.sale.service.client" />
+                <option name="longName" value="PHP.SedoDomainSaleServiceClient" />
+                <option name="name" value="PHP.SedoDomainSaleServiceClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1428396401000" />
+                <option name="date" value="1496886331000" />
+                <option name="id" value="15726" />
+                <option name="key" value="sedo.php.pear.SedoDomainSignupClient" />
+                <option name="longName" value="PHP.SedoDomainSignupClient" />
+                <option name="name" value="PHP.SedoDomainSignupClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482708000" />
+                <option name="date" value="1474599318000" />
+                <option name="description" value="SedoDomainparking" />
+                <option name="id" value="9104" />
+                <option name="key" value="sedo.php.SedoDomainparking" />
+                <option name="longName" value="PHP.SedoDomainparking" />
+                <option name="name" value="PHP.SedoDomainparking" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470394867000" />
+                <option name="date" value="1496887896000" />
+                <option name="description" value="SedoEnvironmentLib" />
+                <option name="id" value="41207" />
+                <option name="key" value="sedo.php.environment.lib" />
+                <option name="longName" value="PHP.SedoEnvironmentLib" />
+                <option name="name" value="PHP.SedoEnvironmentLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482395000" />
+                <option name="date" value="1496893376000" />
+                <option name="description" value="SedoLib" />
+                <option name="id" value="7676" />
+                <option name="key" value="sedo.php.SedoLib" />
+                <option name="longName" value="PHP.SedoLib" />
+                <option name="name" value="PHP.SedoLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472124919000" />
+                <option name="date" value="1496890757000" />
+                <option name="description" value="SedoLocaleLib" />
+                <option name="id" value="41685" />
+                <option name="key" value="sedo.php.pear.SedoLocaleLib" />
+                <option name="longName" value="PHP.SedoLocaleLib" />
+                <option name="name" value="PHP.SedoLocaleLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1486399460000" />
+                <option name="date" value="1496886021000" />
+                <option name="id" value="43719" />
+                <option name="key" value="sedo.php.logger.lib" />
+                <option name="longName" value="PHP.SedoLoggerLib" />
+                <option name="name" value="PHP.SedoLoggerLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411481961000" />
+                <option name="date" value="1496892445000" />
+                <option name="description" value="SedoMLS" />
+                <option name="id" value="6734" />
+                <option name="key" value="sedo.php.SedoMLS" />
+                <option name="longName" value="PHP.SedoMLS" />
+                <option name="name" value="PHP.SedoMLS" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411481467000" />
+                <option name="date" value="1496893664000" />
+                <option name="description" value="SedoMarketplace" />
+                <option name="id" value="4909" />
+                <option name="key" value="sedo.php.SedoMarketplace" />
+                <option name="longName" value="PHP.SedoMarketplace" />
+                <option name="name" value="PHP.SedoMarketplace" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1441203325000" />
+                <option name="date" value="1496884165000" />
+                <option name="id" value="17349" />
+                <option name="key" value="sedo.php.pear.SedoNotificationClient" />
+                <option name="longName" value="PHP.SedoNotificationClient" />
+                <option name="name" value="PHP.SedoNotificationClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472660146000" />
+                <option name="date" value="1496886027000" />
+                <option name="id" value="41935" />
+                <option name="key" value="sedo.php.pear.SedoOfbizCartInfoClient" />
+                <option name="longName" value="PHP.SedoOfbizCartInfoClient" />
+                <option name="name" value="PHP.SedoOfbizCartInfoClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1478169201000" />
+                <option name="date" value="1496884531000" />
+                <option name="id" value="42697" />
+                <option name="key" value="sedo.php.SedoOfbizOrderClient" />
+                <option name="longName" value="PHP.SedoOfbizOrderClient" />
+                <option name="name" value="PHP.SedoOfbizOrderClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1483965135000" />
+                <option name="date" value="1496884626000" />
+                <option name="id" value="43375" />
+                <option name="key" value="sedo.php.pear.SedoOrderTransferClient" />
+                <option name="longName" value="PHP.SedoOrderTransferClient" />
+                <option name="name" value="PHP.SedoOrderTransferClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472657336000" />
+                <option name="date" value="1496886753000" />
+                <option name="id" value="41865" />
+                <option name="key" value="sedo.php.pear.SedoOrderValidationClient" />
+                <option name="longName" value="PHP.SedoOrderValidationClient" />
+                <option name="name" value="PHP.SedoOrderValidationClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468313206000" />
+                <option name="date" value="1472612310000" />
+                <option name="description" value="SedoOrderValidationClientV1" />
+                <option name="id" value="40921" />
+                <option name="key" value="sedo.php.pear.SedoOrderValidationClientV1" />
+                <option name="longName" value="PHP.SedoOrderValidationClientV1" />
+                <option name="name" value="PHP.SedoOrderValidationClientV1" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1428398186000" />
+                <option name="date" value="1496884531000" />
+                <option name="id" value="15743" />
+                <option name="key" value="sedo.php.pear.SedoOwnershipVerificationClient" />
+                <option name="longName" value="PHP.SedoOwnershipVerificationClient" />
+                <option name="name" value="PHP.SedoOwnershipVerificationClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.3.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1480385361000" />
+                <option name="date" value="1496884232000" />
+                <option name="id" value="43015" />
+                <option name="key" value="sedo.php.pear.SedoPageElementClient" />
+                <option name="longName" value="PHP.SedoPageElementClient" />
+                <option name="name" value="PHP.SedoPageElementClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470123070000" />
+                <option name="date" value="1496889730000" />
+                <option name="description" value="SedoPersistenceBundle" />
+                <option name="id" value="41078" />
+                <option name="key" value="sedo.php.persistence.bundle" />
+                <option name="longName" value="PHP.SedoPersistenceBundle" />
+                <option name="name" value="PHP.SedoPersistenceBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476191465000" />
+                <option name="date" value="1496885004000" />
+                <option name="id" value="42399" />
+                <option name="key" value="sedo.php.persistenceBundle.lib" />
+                <option name="longName" value="PHP.SedoPersistenceBundleLib" />
+                <option name="name" value="PHP.SedoPersistenceBundleLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1475828817000" />
+                <option name="date" value="1496886622000" />
+                <option name="id" value="42341" />
+                <option name="key" value="sedo.php.persistence.lib" />
+                <option name="longName" value="PHP.SedoPersistenceLib" />
+                <option name="name" value="PHP.SedoPersistenceLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473236361000" />
+                <option name="date" value="1496891074000" />
+                <option name="description" value="SedoProductValidationComponent" />
+                <option name="id" value="42074" />
+                <option name="key" value="sedo.php.pear.SedoProductValidationComponent" />
+                <option name="longName" value="PHP.SedoProductValidationComponent" />
+                <option name="name" value="PHP.SedoProductValidationComponent" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461940594000" />
+                <option name="date" value="1496884142000" />
+                <option name="id" value="40198" />
+                <option name="key" value="sedo.php.rest.service.lib" />
+                <option name="longName" value="PHP.SedoRestServiceLib" />
+                <option name="name" value="PHP.SedoRestServiceLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470830404000" />
+                <option name="date" value="1496888707000" />
+                <option name="description" value="SedoSapExportLib" />
+                <option name="id" value="41301" />
+                <option name="key" value="sedo.php.sap_export.lib" />
+                <option name="longName" value="PHP.SedoSapExportLib" />
+                <option name="name" value="PHP.SedoSapExportLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462414815000" />
+                <option name="date" value="1496886855000" />
+                <option name="id" value="40384" />
+                <option name="key" value="sedo.php.pear.SedoSearchClient" />
+                <option name="longName" value="PHP.SedoSearchClient" />
+                <option name="name" value="PHP.SedoSearchClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.10.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438615251000" />
+                <option name="date" value="1496884295000" />
+                <option name="id" value="16986" />
+                <option name="key" value="sedo.php.pear.SedoSearchUpdateClient" />
+                <option name="longName" value="PHP.SedoSearchUpdateClient" />
+                <option name="name" value="PHP.SedoSearchUpdateClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461323943000" />
+                <option name="date" value="1472611992000" />
+                <option name="description" value="SedoSearchUpdateClientV2" />
+                <option name="id" value="39968" />
+                <option name="key" value="sedo.php.pear.SedoSearchUpdateClientV2" />
+                <option name="longName" value="PHP.SedoSearchUpdateClientV2" />
+                <option name="name" value="PHP.SedoSearchUpdateClientV2" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411737954000" />
+                <option name="date" value="1496886671000" />
+                <option name="id" value="12525" />
+                <option name="key" value="sedo.php.pear.SedoServiceClient" />
+                <option name="longName" value="PHP.SedoServiceClient" />
+                <option name="name" value="PHP.SedoServiceClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.9.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462363616000" />
+                <option name="date" value="1472611211000" />
+                <option name="description" value="SedoServiceClientV3" />
+                <option name="id" value="40340" />
+                <option name="key" value="sedo.php.pear.SedoServiceClient.v3" />
+                <option name="longName" value="PHP.SedoServiceClient.v3" />
+                <option name="name" value="PHP.SedoServiceClient.v3" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411482795000" />
+                <option name="date" value="1496893720000" />
+                <option name="description" value="SedoServices" />
+                <option name="id" value="9410" />
+                <option name="key" value="sedo.php.SedoServices" />
+                <option name="longName" value="PHP.SedoServices" />
+                <option name="name" value="PHP.SedoServices" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472124501000" />
+                <option name="date" value="1496888179000" />
+                <option name="description" value="SedoWbtAccessLib" />
+                <option name="id" value="41658" />
+                <option name="key" value="sedo.php.pear.SedoWbtAccessLib" />
+                <option name="longName" value="PHP.SedoWbtAccessLib" />
+                <option name="name" value="PHP.SedoWbtAccessLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411738404000" />
+                <option name="date" value="1496886720000" />
+                <option name="id" value="12563" />
+                <option name="key" value="sedo.php.pear.SedoWhoisClient" />
+                <option name="longName" value="PHP.SedoWhoisClient" />
+                <option name="name" value="PHP.SedoWhoisClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1448983163000" />
+                <option name="date" value="1493864285000" />
+                <option name="description" value="Sedo_Logger" />
+                <option name="id" value="38703" />
+                <option name="key" value="sedo.php.pear.Sedo_Logger" />
+                <option name="longName" value="PHP.Sedo_Logger" />
+                <option name="name" value="PHP.Sedo_Logger" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459767086000" />
+                <option name="date" value="1496885469000" />
+                <option name="id" value="39819" />
+                <option name="key" value="sedo.php.Sedo_Mls_Customer_Apikey_Client" />
+                <option name="longName" value="PHP.Sedo_Mls_Customer_Apikey_Client" />
+                <option name="name" value="PHP.Sedo_Mls_Customer_Apikey_Client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1443709396000" />
+                <option name="date" value="1496890212000" />
+                <option name="description" value="Sedo_Mls_Validation" />
+                <option name="id" value="27742" />
+                <option name="key" value="sedo.php.pear.Sedo_Mls_Validation" />
+                <option name="longName" value="PHP.Sedo_Mls_Validation" />
+                <option name="name" value="PHP.Sedo_Mls_Validation" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416996019000" />
+                <option name="date" value="1496888546000" />
+                <option name="description" value="Sedo_Parking_Setting" />
+                <option name="id" value="14282" />
+                <option name="key" value="sedo.php.pear.Sedo_Parking_Setting" />
+                <option name="longName" value="PHP.Sedo_Parking_Setting" />
+                <option name="name" value="PHP.Sedo_Parking_Setting" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470990949000" />
+                <option name="date" value="1496887115000" />
+                <option name="id" value="41529" />
+                <option name="key" value="sedo.php.Sedo_Partner_Program_Service_Client" />
+                <option name="longName" value="PHP.Sedo_Partner_Program_Service_Client" />
+                <option name="name" value="PHP.Sedo_Partner_Program_Service_Client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472716643000" />
+                <option name="date" value="1496887165000" />
+                <option name="id" value="41954" />
+                <option name="key" value="sedo.php.Sedo_Premium_Domain_Service_Client" />
+                <option name="longName" value="PHP.Sedo_Premium_Domain_Service_Client" />
+                <option name="name" value="PHP.Sedo_Premium_Domain_Service_Client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470988895000" />
+                <option name="date" value="1472609562000" />
+                <option name="description" value="Sedo_Premium_Domain_Service_Client_v1" />
+                <option name="id" value="41489" />
+                <option name="key" value="sedo.php.Sedo_Premium_Domain_Service_Client_v1" />
+                <option name="longName" value="PHP.Sedo_Premium_Domain_Service_Client_v1" />
+                <option name="name" value="PHP.Sedo_Premium_Domain_Service_Client_v1" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476280824000" />
+                <option name="date" value="1496885180000" />
+                <option name="id" value="42588" />
+                <option name="key" value="sedo.php.SettingProvider.lib" />
+                <option name="longName" value="PHP.SettingProviderLib" />
+                <option name="name" value="PHP.SettingProviderLib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1445518823000" />
+                <option name="date" value="1496890031000" />
+                <option name="description" value="TeamSeer" />
+                <option name="id" value="27928" />
+                <option name="key" value="sedo.php.TeamSeer" />
+                <option name="longName" value="PHP.TeamSeer" />
+                <option name="name" value="PHP.TeamSeer" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1452011566000" />
+                <option name="date" value="1496888288000" />
+                <option name="description" value="Tracking" />
+                <option name="id" value="39031" />
+                <option name="key" value="sedo.php.Tracking" />
+                <option name="longName" value="PHP.Tracking" />
+                <option name="name" value="PHP.Tracking" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1485249815000" />
+                <option name="date" value="1496886632000" />
+                <option name="id" value="43552" />
+                <option name="key" value="sedo.php.twig.extension.bundle" />
+                <option name="longName" value="PHP.TwigExtensionBundle" />
+                <option name="name" value="PHP.TwigExtensionBundle" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1453291180000" />
+                <option name="date" value="1496900471000" />
+                <option name="description" value="Validation" />
+                <option name="id" value="39078" />
+                <option name="key" value="sedo.php.Validation" />
+                <option name="longName" value="PHP.Validation" />
+                <option name="name" value="PHP.Validation" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1433744794000" />
+                <option name="date" value="1490926035000" />
+                <option name="description" value="Yo-Template" />
+                <option name="id" value="16443" />
+                <option name="key" value="sedo.php.Yo-Template" />
+                <option name="longName" value="PHP.Yo-Template" />
+                <option name="name" value="PHP.Yo-Template" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1474902810000" />
+                <option name="date" value="1496885772000" />
+                <option name="id" value="42327" />
+                <option name="key" value="sedo.php.PricingTools" />
+                <option name="longName" value="PHP.pricing.tools" />
+                <option name="name" value="PHP.pricing.tools" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461841878000" />
+                <option name="date" value="1496880618000" />
+                <option name="id" value="40081" />
+                <option name="key" value="sedo.php.service.page.element" />
+                <option name="longName" value="Page Element Service" />
+                <option name="name" value="Page Element Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.6" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467269250000" />
+                <option name="date" value="1496879611000" />
+                <option name="description" value="This service manages the partner program" />
+                <option name="id" value="40792" />
+                <option name="key" value="com.sedo:partner-program-service" />
+                <option name="longName" value="Partner Program Service" />
+                <option name="name" value="Partner Program Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1486747094000" />
+                <option name="date" value="1496879526000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="44030" />
+                <option name="key" value="com.sedo:payment-rules-service" />
+                <option name="longName" value="Payment Rules Service" />
+                <option name="name" value="Payment Rules Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470652603000" />
+                <option name="date" value="1496876914000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="41224" />
+                <option name="key" value="com.sedo:premium-domain-service" />
+                <option name="longName" value="Premium Domain Service" />
+                <option name="name" value="Premium Domain Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1486395229000" />
+                <option name="date" value="1496883099000" />
+                <option name="id" value="43679" />
+                <option name="key" value="sedo.php.service.prototype.domain.tranfer" />
+                <option name="longName" value="Prototype Domain Transfer Service" />
+                <option name="name" value="Prototype Domain Transfer Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1429778949000" />
+                <option name="date" value="1496879792000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="15967" />
+                <option name="key" value="com.sedo:search-service" />
+                <option name="longName" value="Search Service" />
+                <option name="name" value="Search Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.14.9-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1436976563000" />
+                <option name="date" value="1496877771000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="16805" />
+                <option name="key" value="com.sedo:search-update-service" />
+                <option name="longName" value="Search Update Service" />
+                <option name="name" value="Search Update Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473764564000" />
+                <option name="date" value="1496877204000" />
+                <option name="description" value="This service manages the sedoapi user authentication" />
+                <option name="id" value="42159" />
+                <option name="key" value="com.sedo:sedoapi-user-authentication-service" />
+                <option name="longName" value="SedoApi User Authentication Service" />
+                <option name="name" value="SedoApi User Authentication Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416929008000" />
+                <option name="date" value="1478137708000" />
+                <option name="id" value="14162" />
+                <option name="key" value="SeleniumMarketplace:SeleniumMarketplace" />
+                <option name="longName" value="SeleniumMarketplace" />
+                <option name="name" value="SeleniumMarketplace" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1416928640000" />
+                <option name="date" value="1478135783000" />
+                <option name="id" value="14069" />
+                <option name="key" value="SeleniumParking:SeleniumParking" />
+                <option name="longName" value="SeleniumParking" />
+                <option name="name" value="SeleniumParking" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1422279160000" />
+                <option name="date" value="1496876760000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="14933" />
+                <option name="key" value="com.sedo:service-camel-lib-parent" />
+                <option name="longName" value="Service Camel Parent" />
+                <option name="name" value="Service Camel Parent" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1448987562000" />
+                <option name="date" value="1496876760000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38749" />
+                <option name="key" value="com.sedo:service-camel-lib" />
+                <option name="longName" value="Service Camel Lib" />
+                <option name="name" value="Service Camel Lib" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1448987562000" />
+                <option name="date" value="1496876760000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38750" />
+                <option name="key" value="com.sedo:service-camel-test" />
+                <option name="longName" value="Service Camel Test" />
+                <option name="name" value="Service Camel Test" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1422277450000" />
+                <option name="date" value="1496877846000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="14901" />
+                <option name="key" value="com.sedo:service-lib-parent" />
+                <option name="longName" value="Service Lib Parent" />
+                <option name="name" value="Service Lib Parent" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.9.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1449222672000" />
+                <option name="date" value="1496877846000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38884" />
+                <option name="key" value="com.sedo:service-lib" />
+                <option name="longName" value="Service Lib" />
+                <option name="name" value="Service Lib" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.9.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1448987568000" />
+                <option name="date" value="1496877846000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38814" />
+                <option name="key" value="com.sedo:service-test" />
+                <option name="longName" value="Service Test" />
+                <option name="name" value="Service Test" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.9.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1422279900000" />
+                <option name="date" value="1496876608000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="14975" />
+                <option name="key" value="com.sedo:service-spring-lib-parent" />
+                <option name="longName" value="Service Spring" />
+                <option name="name" value="Service Spring" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.14.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1449222682000" />
+                <option name="date" value="1496876608000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38964" />
+                <option name="key" value="com.sedo:service-spring-lib" />
+                <option name="longName" value="Service Spring Lib" />
+                <option name="name" value="Service Spring Lib" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.14.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1449222682000" />
+                <option name="date" value="1496876608000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="38965" />
+                <option name="key" value="com.sedo:service-spring-test" />
+                <option name="longName" value="Service Spring Test" />
+                <option name="name" value="Service Spring Test" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.14.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461920293000" />
+                <option name="date" value="1496881101000" />
+                <option name="id" value="40161" />
+                <option name="key" value="sedo.php.service.showcase" />
+                <option name="longName" value="Showcase Service" />
+                <option name="name" value="Showcase Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.3" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1477309780000" />
+                <option name="date" value="1496877203000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="42604" />
+                <option name="key" value="com.sedo:tld-service-client-lib" />
+                <option name="longName" value="TLD Service Client Lib" />
+                <option name="name" value="TLD Service Client Lib" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473779949000" />
+                <option name="date" value="1496878372000" />
+                <option name="description" value="Basic data access service for delivering details of TLDs from database" />
+                <option name="id" value="42197" />
+                <option name="key" value="com.sedo:tld-service" />
+                <option name="longName" value="Tld Service" />
+                <option name="name" value="Tld Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468593089000" />
+                <option name="date" value="1496877278000" />
+                <option name="description" value="Service to access translations from the WBT (Web Based Translation Tool)" />
+                <option name="id" value="41014" />
+                <option name="key" value="com.sedo:translation-service" />
+                <option name="longName" value="Translation Service" />
+                <option name="name" value="Translation Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411473380000" />
+                <option name="date" value="1496877482000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="950" />
+                <option name="key" value="com.sedo:whois-service" />
+                <option name="longName" value="Whois Service" />
+                <option name="name" value="Whois Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.12.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1457706376000" />
+                <option name="date" value="1496878158000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="39544" />
+                <option name="key" value="de.sedo:filterlog-service" />
+                <option name="longName" value="filterlog" />
+                <option name="name" value="filterlog" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.8.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411724765000" />
+                <option name="date" value="1478131555000" />
+                <option name="description" value="The parent POM for all Maven projects at Sedo" />
+                <option name="id" value="12134" />
+                <option name="key" value="de.sedo:j-lib-main" />
+                <option name="longName" value="jLibMain" />
+                <option name="name" value="jLibMain" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="3.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411952008000" />
+                <option name="date" value="1478132316000" />
+                <option name="id" value="12581" />
+                <option name="key" value="de.sedo:pricer" />
+                <option name="longName" value="pricer" />
+                <option name="name" value="pricer" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1411724763000" />
+                <option name="date" value="1478136020000" />
+                <option name="id" value="12133" />
+                <option name="key" value="de.sedo:queuewatcher" />
+                <option name="longName" value="queuewatcher" />
+                <option name="name" value="queuewatcher" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.0.1-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

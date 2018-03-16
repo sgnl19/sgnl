@@ -1,0 +1,13 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://sonar.i.sedorz.net/" />
+          <option name="name" value="Sedo Sonar" />
+          <option name="user" value="attlev" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

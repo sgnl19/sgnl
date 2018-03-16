@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.i.sedorz.net/" />
+          <option name="name" value="Sedo Sonar" />
+          <option name="login" value="attlev" />
+          <password>df92dfdedf99dffadf9ddff0dfd0df87dfdfdf85</password>
+          <organizationKey />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
