@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tgz" type="ARCHIVE" />
+      <mapping pattern="Dockerfile-db-init" type="Dockerfile" />
+      <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-local" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="geheim" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping pattern="text-xml" type="XML" />
+      <mapping pattern="*.yaml.dist" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
