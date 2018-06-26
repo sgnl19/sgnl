@@ -4,7 +4,7 @@ DATE=$(date '+%s')
 touch /tmp/${DATE}
 
 ## monitor setup
-~/.screenlayout/2-mon-hdmi.sh
+~/.screenlayout/1-mon.sh
 
 #if ! pgrep "syndaemon" > /dev/null
 #then
