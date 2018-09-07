@@ -1,5 +1,6 @@
 moreutils
 tmux
+tmux-bash-completion
 nm-applet
 xfce4-clipman
 arandr

@@ -1,0 +1,21 @@
+[user]
+	email = attila.levai@sedo.com
+	name = Attila Levai
+[push]
+	default = matching
+[merge]
+	tool = kdiff3
+[core]
+	editor = vim
+[color "status"]
+	added = green
+	changed = red bold
+	untracked = magenta bold
+[color "branch"]
+	remote = yellow
+[color "diff"]
+	old = red bold
+[tag]
+	sort = version:refname
+[alias]
+    fancylog = log --graph --pretty=tformat:'%C(auto) %h %d %s | %Cgreen %cI %Creset | %Cblue %cn %Creset'
