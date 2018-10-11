@@ -18,4 +18,4 @@
 [tag]
 	sort = version:refname
 [alias]
-    fancylog = log --graph --pretty=tformat:'%C(auto) %h %d %s | %Cgreen %cI %Creset | %Cblue %cn %Creset'
+    fancylog = log --graph --pretty=tformat:'%C(auto) %h %d %s | %Cgreen %cI %Creset | %C(cyan) %cn %Creset'
