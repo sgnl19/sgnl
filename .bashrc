@@ -48,6 +48,13 @@ alias l='ls -CF'
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
+# HELM aliases
+alias helmtls='helm --tiller-namespace=core-infrastructure'
+alias helm-integration='helm --kube-context integration'
+alias helm-stage='helmtls --kube-context stage'
+alias helm-production='helmtls --kube-context production-core-tiller'
+alias helm-core='helm --kube-context core'
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
@@ -73,7 +80,7 @@ source ~/.git-prompt.sh
 
 case "$TERM" in
         tmux|screen*|xterm*|rxvt*|mysql)
-                PS1='\[\033[01;32m\]\u@\h\[\033[01;34m\]\w\[\033[1;35m\]$(__git_ps1 " [%s]") [$(kubectl config current-context)]\[\033[01;34m\] \$\[\033[00m\] '
+                PS1='\[\033[01;32m\]\u@\h\[\033[01;34m\]\w\[\033[1;35m\]$(__git_ps1 " [%s]") \[\033[01;33m\][$(kubectl config current-context)]\[\033[01;34m\] \$\[\033[00m\] '
                 ;;
         *)
                 ;;
@@ -89,6 +96,6 @@ export HISTFILESIZE=
 export HISTSIZE=
 shopt -s histappend
 # After each command, append to the history file and reread it
-export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}history -a; history -c; history -r"
+#export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}history -a; history -c; history -r"
 
 export EDITOR=/usr/bin/vim
