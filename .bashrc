@@ -54,6 +54,7 @@ alias helm-integration='helm --kube-context integration'
 alias helm-stage='helmtls --kube-context stage'
 alias helm-production='helmtls --kube-context production-core-tiller'
 alias helm-core='helm --kube-context core'
+alias helm-local='helm --kube-context minikube'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -99,3 +100,5 @@ shopt -s histappend
 #export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}history -a; history -c; history -r"
 
 export EDITOR=/usr/bin/vim
+export KUBECONFIG="$HOME/.kube/config.local:$HOME/.kube/config.integration:$HOME/.kube/config.stage:$HOME/.kube/config.production"
+
